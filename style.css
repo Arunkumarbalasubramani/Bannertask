@@ -1,0 +1,67 @@
+.container{
+    background-color: rgba(241, 237, 237, 0.637);
+}
+
+
+
+
+.intro{
+    font-weight: bolder;
+    font-size: 275%;
+}
+
+.content{
+float: left;
+color: rgb(7, 159, 206);
+font-size: 90%;
+font-weight: 600;
+}
+.content1{
+   text-align: center;
+   font-weight: 550;
+    
+}
+.content2{
+    display: flex;
+    justify-content: center;
+}
+.subhead{
+    font-size: larger;
+    font-weight: 600;
+    color: rgb(83, 84, 126);
+}
+
+.heading{
+    font-weight:600;
+    background-color: rgb(68, 156, 228);
+    padding-left: 25%;
+    color: white;
+    float:center;
+
+    
+}
+.percent{
+    font-size: 250%;
+    font-weight: bolder;
+    color: orange;
+}
+.percent1{
+    font-size: 250%;
+    font-weight: 600;
+    color: rgba(57, 57, 126, 0.966);   
+}
+.sidehead{
+    font-size: larger;
+    color: orange;
+    font-weight: bold;
+}
+
+.content3{
+    font-weight: 600;
+    text-align: right;
+}
+
+.leftside{
+    
+    padding-left: 30%;
+}
